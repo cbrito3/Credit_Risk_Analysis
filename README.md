@@ -49,7 +49,7 @@ The precision for high and low risk are 0.04 and 1.00 respectively.
 The recall scores for high and low risk are: 0.67 and 0.91 respectively. 
 
 
-* Easy Ensemble AdaBoost Classifier
+* AdaEasy Ensemble AdaBoost Classifier
 !['Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 The balanced accuracy score is 0.925427358175101. 
@@ -58,7 +58,4 @@ The recall scores for high and low risk are: 0.91 and 0.94 respectively.
 
 # Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-
-
-
-
+When looking at the results of each machine learning models, we want the model(s) that are closer to 1 and not 0. We can see that the Easy Ensemble AdaBoost Classifier model has a higher balanced accuracy, 0.93, compared to other 5 models. This means that is the closest to 1. The other 5 models are below the 0.79 balanced accuracy. Regarding the precision results for the machine learning models the first 4 models the high and low risks were all similar 0.01 and 1.00 respectively, whereas the last two their precision results were different for the high risk 0.04 and 0.07 and low risk were the same but still within the 1 range, which is good. The recall scores for all the machine learning models are good because they all fall under the 1 range. From all of these results, the model that is closer to 1 in all results is the AdaEasy Ensemble AdaBoost Classifier.
