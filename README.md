@@ -15,6 +15,15 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 * Undersampling
 !['Undersampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
+* Combination (Over and Under) Sampling
+!['Combination%20(Over%20and%20Under)%20Sampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Combination%20(Over%20and%20Under)%20Sampling.png)
+
+* Balanced Random Forest Classifier
+!['Balanced%20Random%20Forest%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Balanced%20Random%20Forest%20Classifier.png)
+
+* Easy Ensemble AdaBoost Classifier
+!['Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+
 
 # Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
