@@ -7,9 +7,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 # Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Naive%20Random%20Oversampling.png
+!['Naive%20Random%20Oversampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Naive%20Random%20Oversampling.png)
 
-
+!['Visual%20Data/Linear%20Regression](https://github.com/cbrito3/MechaCar_Statistical_Analysis/blob/main/Visual%20Data/Linear%20Regression.png?raw=true)
 
 
 # Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
