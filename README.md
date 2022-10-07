@@ -15,21 +15,46 @@ The results are as follows:
 * Naive Random Oversampling
 !['Naive%20Random%20Oversampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Naive%20Random%20Oversampling.png)
 
+ The balanced accuracy score is 0.6348870972223508. 
+ The precision for high and low risk are 0.01 and 1.00 respectively. 
+ The recall scores for high and low risk are: 0.66 and 0.61 respectively. 
+ 
+
 * SMOTE Oversampling
 !['SMOTE%20Oversampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling.png)
 
+The balanced accuracy score is 0.6591200367698136. 
+The precision for high and low risk are 0.01 and 1.00 respectively. 
+The recall scores for high and low risk are: 0.63 and 0.68 respectively. 
+ 
 * Undersampling
 !['Undersampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Undersampling.png)
+
+The balanced accuracy score is 0.6591200367698136. 
+The precision for high and low risk are 0.01 and 1.00 respectively. 
+The recall scores for high and low risk are: 0.69 and 0.40 respectively. 
 
 * Combination (Over and Under) Sampling
 !['Combination%20(Over%20and%20Under)%20Sampling](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Combination%20(Over%20and%20Under)%20Sampling.png)
 
+The balanced accuracy score is 0.5443246441108096. 
+The precision for high and low risk are 0.01 and 1.00 respectively. 
+The recall scores for high and low risk are: 0.72 and 0.57 respectively. 
+
 * Balanced Random Forest Classifier
 !['Balanced%20Random%20Forest%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Balanced%20Random%20Forest%20Classifier.png)
+
+The balanced accuracy score is 0.78776726253066. 
+The precision for high and low risk are 0.04 and 1.00 respectively. 
+The recall scores for high and low risk are: 0.67 and 0.91 respectively. 
+
 
 * Easy Ensemble AdaBoost Classifier
 !['Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
+The balanced accuracy score is 0.925427358175101. 
+The precision for high and low risk are 0.07 and 1.00 respectively. 
+The recall scores for high and low risk are: 0.91 and 0.94 respectively. 
 
 # Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
