@@ -58,7 +58,6 @@ The balanced accuracy score is 0.78776726253066.
 The precision for high and low risk are 0.04 and 1.00 respectively. 
 The recall scores for high and low risk are: 0.67 and 0.91 respectively. 
 
-
    - AdaEasy Ensemble AdaBoost Classifier
 !['Easy%20Ensemble%20AdaBoost%20Classifier](https://github.com/cbrito3/Credit_Risk_Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
